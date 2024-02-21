@@ -1,0 +1,11 @@
+Rotate: 
+Te ayuda a girar un elemento, puedes rotarlo en los ejes X, Y o Z.
+
+Scale: 
+Te ayuda a cambiar el tamañode un elemento, básicamente puedes agrandarlo o achicarlo.
+
+Skew: 
+Te ayuda a deformar un elemento tanto en X como en Y, esta propiedad es muy útil cando queires dar un efecto 3D.
+
+Matrix: 
+Esta es una propiedad un poquito máscompleja. Te permite escalar, deformar y mover tu elemento a través de diferentes propiedades.

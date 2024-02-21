@@ -1,0 +1,21 @@
+Una timing function es la representación de la progresión en función del tiempo de cada ciclo de la animación.
+Representa la aceleración del elemento desde un punto A hasta un punto B.
+
+En esta página web (https://easings.net/) 
+podrás observar varias “timing functions” y cómo es su animación haciendo hover en cada bloque. No es necesario aprendertelas de memoria, solo conocerlas.
+
+Cubic-bezier:
+Cubic-bezier es una función de CSS para representar una timing function mediante cuatro puntos a lo largo de la curva, de los cuales únicamente ingresamos los dos puntos intermedios.
+
+Página web para crear una función Cubic-bezier --> https://cubic-bezier.com/#.17,.67,.83,.67
+
+Planos y ejes:
+
+El navegador está constituido de tres planos y ejes: el ancho o X; el alto o Y; y el de profundidad o Z.
+El eje X positivo está hacia la derecha; el eje Y positivo está hacia abajo; y el eje Z positivo está hacia el usuario.
+Estos son muy importantes para mover los elementos del HTML desde un punto inicial hacia un punto final.
+
+Contexto de apilamiento:
+El contexto de apilamiento consiste en la superposición de capas o elementos a lo largo del eje Z.
+Esto es importante para evitar que un elemento esté ocultando a otro o colocar una imagen de fondo a la página web.
+
